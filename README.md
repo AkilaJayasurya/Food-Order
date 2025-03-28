@@ -17,5 +17,5 @@ HTML5 for structuring the web pages
 
 CSS3 for styling and hover effects
 
-🚀 How to Use: [ ]
+🚀 How to Use: [https://akilajayasurya.github.io/Food-Order/ ]
  
